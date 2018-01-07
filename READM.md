@@ -1,0 +1,1 @@
+# Example for 12 games project
